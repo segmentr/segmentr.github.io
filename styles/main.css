@@ -1,0 +1,27 @@
+.navbar {
+    background-color: #3E3E3E;
+}
+
+.navbar-header {
+    margin-top: 3px;
+    margin-left: 30px !important;
+}
+
+body {
+    padding-top: 50px;
+    font-size: 18px;
+}
+
+.container {
+    width: inherit;
+    margin: 50px;
+}
+
+.purpose img {
+    max-height: 240px;
+}
+
+.purpose {
+    text-align: center;
+    font-size: 28px;
+}
